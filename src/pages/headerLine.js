@@ -23,8 +23,8 @@ const HeaderLine = () => {
               <Col xs={4} lg={2} className="removePadding">
                 <div className="infoSteps">
                   <div className="tickView tick-normal">✓</div>
-                  <div className="stepView-active">Step 1</div>
-                  <div className="statusView-active">Create Project</div>
+                  <div className="stepView-active">Step 2</div>
+                  <div className="statusView-active">Add Team</div>
                 </div>
               </Col>
               <Col xs={4} lg={5} className="align-center">
@@ -35,8 +35,8 @@ const HeaderLine = () => {
           <Col xs={3} lg={2}  className="previewContent">
             <div className="infoSteps">
               <div className="tickView tick-normal">✓</div>
-              <div className="stepView-active">Step 1</div>
-              <div className="statusView-active">Create Project</div>
+              <div className="stepView-active">Step 3</div>
+              <div className="statusView-active">Preview & Hire</div>
             </div>
           </Col>
         </Row>
